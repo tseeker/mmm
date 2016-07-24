@@ -1,0 +1,22 @@
+{
+    "textures": {
+        "particle": "mmm:blocks/materials/log/side/bamboo",
+        "side": "mmm:blocks/materials/log/side/bamboo" ,
+        "end": "mmm:blocks/materials/log/end/bamboo"
+    } ,
+    
+    "elements": [
+    	{
+    		"from": [ 4 , 0 , 4 ] ,
+    		"to": [ 12 , 16 , 12 ] ,
+            "faces": {
+                "down":  { "texture": "#end", "cullface": "down" },
+                "up":  { "texture": "#end", "cullface": "up" },
+                "north": { "texture": "#side" } ,
+                "east": { "texture": "#side" } ,
+                "south": { "texture": "#side" } ,
+                "west": { "texture": "#side" }
+    		}
+    	}
+    ]
+}

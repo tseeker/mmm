@@ -1,0 +1,19 @@
+{
+    "textures": {
+        "body": "mmm:blocks/materials/planks/bamboo",
+        "leg": "mmm:blocks/materials/log/side/bamboo"
+    } ,
+    "elements": [
+    	{
+    		"from": [ 1, 0, 1 ],
+    		"to": [ 3, 12, 3 ],
+             "faces": {
+                "down":  { "texture": "#leg", "cullface": "down" },
+                "north": { "texture": "#leg" , "uv": [ 4 , 0 , 12 , 16 ] },
+                "south": { "texture": "#leg" , "uv": [ 4 , 0 , 12 , 16 ] },
+                "west":  { "texture": "#leg" , "uv": [ 4 , 0 , 12 , 16 ] },
+                "east":  { "texture": "#leg" , "uv": [ 4 , 0 , 12 , 16 ] }
+            }
+    	}
+    ]
+}

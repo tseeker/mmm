@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "stage=0": { "model": "mmm:materials/sapling/hevea" },
+        "stage=1": { "model": "mmm:materials/sapling/hevea" },
+        "stage=2": { "model": "mmm:materials/sapling/hevea" },
+        "stage=3": { "model": "mmm:materials/sapling/hevea" },
+        "stage=4": { "model": "mmm:materials/sapling/hevea" },
+        "stage=5": { "model": "mmm:materials/sapling/hevea" },
+        "stage=6": { "model": "mmm:materials/sapling/hevea" },
+        "stage=7": { "model": "mmm:materials/sapling/hevea" },
+        "stage=8": { "model": "mmm:materials/sapling/hevea" },
+        "stage=9": { "model": "mmm:materials/sapling/hevea" },
+        "stage=10": { "model": "mmm:materials/sapling/hevea" },
+        "stage=11": { "model": "mmm:materials/sapling/hevea" },
+        "stage=12": { "model": "mmm:materials/sapling/hevea" },
+        "stage=13": { "model": "mmm:materials/sapling/hevea" },
+        "stage=14": { "model": "mmm:materials/sapling/hevea" },
+        "stage=15": { "model": "mmm:materials/sapling/hevea" }
+    }
+}

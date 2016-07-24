@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "mmm:blocks/plant/wild_tomato/without_fruits"
+    }
+}

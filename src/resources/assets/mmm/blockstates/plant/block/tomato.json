@@ -1,0 +1,27 @@
+{
+    "variants": {
+        "fruits=false,highest=true,size=0":  { "model": "mmm:plant/tomato/s0" },
+        "fruits=false,highest=false,size=0":  { "model": "mmm:plant/tomato/s0" },
+
+        "fruits=false,highest=true,size=1":  { "model": "mmm:plant/tomato/s1" },
+        "fruits=false,highest=false,size=1":  { "model": "mmm:plant/tomato/s1" },
+
+        "fruits=false,highest=true,size=2":  { "model": "mmm:plant/tomato/s2" },
+        "fruits=false,highest=false,size=2":  { "model": "mmm:plant/tomato/s2" },
+
+        "fruits=false,highest=true,size=3":  { "model": "mmm:plant/tomato/s3h" },
+        "fruits=false,highest=false,size=3":  { "model": "mmm:plant/tomato/s3c" },
+
+        "fruits=true,highest=true,size=0":  { "model": "mmm:plant/tomato/f0h" },
+        "fruits=true,highest=false,size=0":  { "model": "mmm:plant/tomato/f0c" },
+
+        "fruits=true,highest=true,size=1":  { "model": "mmm:plant/tomato/f1h" },
+        "fruits=true,highest=false,size=1":  { "model": "mmm:plant/tomato/f1c" },
+
+        "fruits=true,highest=true,size=2":  { "model": "mmm:plant/tomato/f2h" },
+        "fruits=true,highest=false,size=2":  { "model": "mmm:plant/tomato/f2c" },
+
+        "fruits=true,highest=true,size=3":  { "model": "mmm:plant/tomato/f3h" },
+        "fruits=true,highest=false,size=3":  { "model": "mmm:plant/tomato/f3c" }
+    }
+}

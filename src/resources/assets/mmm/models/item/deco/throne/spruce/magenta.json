@@ -1,0 +1,6 @@
+{
+	"parent": "mmm:item/deco/throne/spruce",
+	"textures": {
+		"wool" : "minecraft:blocks/wool_colored_magenta"
+	}
+}

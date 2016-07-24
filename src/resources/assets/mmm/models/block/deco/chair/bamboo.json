@@ -1,0 +1,6 @@
+{
+	"parent": "mmm:block/deco/chair",
+    "textures": {
+        "body": "mmm:blocks/materials/planks/bamboo"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "stage=0": { "model": "mmm:materials/sapling/bamboo" },
+        "stage=1": { "model": "mmm:materials/sapling/bamboo" },
+        "stage=2": { "model": "mmm:materials/sapling/bamboo" },
+        "stage=3": { "model": "mmm:materials/sapling/bamboo" },
+        "stage=4": { "model": "mmm:materials/sapling/bamboo" },
+        "stage=5": { "model": "mmm:materials/sapling/bamboo" },
+        "stage=6": { "model": "mmm:materials/sapling/bamboo" },
+        "stage=7": { "model": "mmm:materials/sapling/bamboo" },
+        "stage=8": { "model": "mmm:materials/sapling/bamboo" },
+        "stage=9": { "model": "mmm:materials/sapling/bamboo" },
+        "stage=10": { "model": "mmm:materials/sapling/bamboo" },
+        "stage=11": { "model": "mmm:materials/sapling/bamboo" },
+        "stage=12": { "model": "mmm:materials/sapling/bamboo" },
+        "stage=13": { "model": "mmm:materials/sapling/bamboo" },
+        "stage=14": { "model": "mmm:materials/sapling/bamboo" },
+        "stage=15": { "model": "mmm:materials/sapling/bamboo" }
+    }
+}

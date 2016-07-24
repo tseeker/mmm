@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "mmm:deco/slabs/hevea/bottom" },
+        "half=top,variant=default": { "model": "mmm:deco/slabs/hevea/top" }
+    }
+}

@@ -1,0 +1,13 @@
+{
+	"parent": "minecraft:block/cube",
+	"textures": 
+	{
+		"particle": "mmm:blocks/tech/base/workbench",
+		"down": "minecraft:blocks/planks_oak",
+		"up": "minecraft:blocks/crafting_table_top",
+		"north": "mmm:blocks/tech/base/workbench",
+		"west": "minecraft:blocks/crafting_table_front",
+		"east": "minecraft:blocks/crafting_table_side",
+		"south": "minecraft:blocks/crafting_table_side"
+	}
+}

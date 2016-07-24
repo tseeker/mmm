@@ -1,0 +1,6 @@
+{
+	"parent": "mmm:item/deco/chair",
+    "textures": {
+        "body": "minecraft:blocks/planks_spruce"
+    }
+}

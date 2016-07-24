@@ -1,0 +1,17 @@
+{
+    "multipart": [
+        {   "apply": { "model": "mmm:deco/fence/hevea/post" }},
+        {   "when": { "north": "true" },
+            "apply": { "model": "mmm:deco/fence/hevea/side", "uvlock": true }
+        },
+        {   "when": { "east": "true" },
+            "apply": { "model": "mmm:deco/fence/hevea/side", "y": 90, "uvlock": true }
+        },
+        {   "when": { "south": "true" },
+            "apply": { "model": "mmm:deco/fence/hevea/side", "y": 180, "uvlock": true }
+        },
+        {   "when": { "west": "true" },
+            "apply": { "model": "mmm:deco/fence/hevea/side", "y": 270, "uvlock": true }
+        }
+    ]
+}

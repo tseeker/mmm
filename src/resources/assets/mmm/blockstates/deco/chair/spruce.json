@@ -1,0 +1,8 @@
+{
+	"variants" : {
+		"facing=north": { "model": "mmm:deco/chair/spruce" } ,
+		"facing=east": { "model": "mmm:deco/chair/spruce" , "y": 90 } ,
+		"facing=south": { "model": "mmm:deco/chair/spruce" , "y": 180 } ,
+		"facing=west": { "model": "mmm:deco/chair/spruce" , "y": 270 }
+	}
+}

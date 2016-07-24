@@ -1,0 +1,72 @@
+{
+	"textures": 
+	{
+		"side": "mmm:blocks/tech/base/alloy_furnace/side",
+		"bottom": "mmm:blocks/tech/base/alloy_furnace/bottom",
+		"particle": "minecraft:blocks/brick"
+	},
+
+	"elements": 
+	[
+		{
+			"from": [0, 0, 0] ,
+			"to": [16, 10, 16] ,
+			"faces": {
+                "down":  { "texture": "#bottom", "cullface": "down" },
+                "up":  { "texture": "#top" },
+                "north": { "texture": "#front", "cullface": "north" } ,
+                "south": { "texture": "#side", "cullface": "south" } ,
+                "east": { "texture": "#side", "cullface": "east" } ,
+                "west": { "texture": "#side", "cullface": "west" }
+			}
+		} ,
+
+		{
+			"from": [4, 10, 4],
+			"to": [5, 16, 12],
+			"faces": {
+                "up":  { "texture": "#top", "cullface": "up" },
+                "north": { "texture": "#front" } ,
+                "south": { "texture": "#side" } ,
+                "east": { "texture": "#side" } ,
+                "west": { "texture": "#side" }
+			}
+		} ,
+		{
+			"from": [11, 10, 4],
+			"to": [12, 16, 12],
+			"faces": {
+                "up":  { "texture": "#top", "cullface": "up" },
+                "north": { "texture": "#front" } ,
+                "south": { "texture": "#side" } ,
+                "east": { "texture": "#side" } ,
+                "west": { "texture": "#side" }
+			}
+		} ,
+		{
+			"from": [5, 10, 4],
+			"to": [11, 16, 5],
+			"faces": {
+                "up":  { "texture": "#top", "cullface": "up" },
+                "north": { "texture": "#front" } ,
+                "south": { "texture": "#side" }
+			}
+		} ,
+		{
+			"from": [5, 10, 11],
+			"to": [11, 16, 12],
+			"faces": {
+                "up":  { "texture": "#top", "cullface": "up" },
+                "north": { "texture": "#front" } ,
+                "south": { "texture": "#side" }
+			}
+		} ,
+		{
+			"from": [5, 15, 5] ,
+			"to": [11, 15, 11] ,
+			"faces": {
+                "up":  { "texture": "#top", "cullface": "up" }
+			}
+		}
+	]
+}

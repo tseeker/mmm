@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "mmm:items/tech/tools/steel/axe"
+    }
+}

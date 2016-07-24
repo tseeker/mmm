@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cube_column",
+    "textures": {
+        "end": "mmm:blocks/materials/planks/bamboo",
+        "side": "mmm:blocks/materials/planks/bamboo"
+    }
+}

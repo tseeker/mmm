@@ -1,0 +1,27 @@
+{
+	"variants": 
+	{
+		"axis=y": 
+		{
+			"model": "mmm:materials/log/hevea"
+		},
+
+		"axis=z": 
+		{
+			"model": "mmm:materials/log/hevea",
+			"x": 90
+		},
+
+		"axis=x": 
+		{
+			"model": "mmm:materials/log/hevea",
+			"x": 90,
+			"y": 90
+		},
+
+		"axis=none": 
+		{
+			"model": "mmm:materials/bark/hevea"
+		}
+	}
+}

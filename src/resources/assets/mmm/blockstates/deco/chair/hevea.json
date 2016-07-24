@@ -1,0 +1,8 @@
+{
+	"variants" : {
+		"facing=north": { "model": "mmm:deco/chair/hevea" } ,
+		"facing=east": { "model": "mmm:deco/chair/hevea" , "y": 90 } ,
+		"facing=south": { "model": "mmm:deco/chair/hevea" , "y": 180 } ,
+		"facing=west": { "model": "mmm:deco/chair/hevea" , "y": 270 }
+	}
+}

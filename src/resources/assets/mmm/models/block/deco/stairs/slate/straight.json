@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/stairs",
+    "textures": {
+        "bottom": "mmm:blocks/deco/smoothstone/slate",
+        "top": "mmm:blocks/deco/smoothstone/slate",
+        "side": "mmm:blocks/deco/smoothstone/slate"
+    }
+}

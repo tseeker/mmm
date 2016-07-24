@@ -1,0 +1,10 @@
+{
+	"parent": "mmm:item/deco/throne",
+	"textures": {
+		"wood" : "mmm:blocks/deco/throne/hevea/wood" ,
+		"frontbottom" : "mmm:blocks/deco/throne/hevea/front-bottom" ,
+		"fronttop" : "mmm:blocks/deco/throne/hevea/front-top" ,
+		"top" : "mmm:blocks/deco/throne/hevea/bottom" ,
+		"wool" : "#wool"
+	}
+}

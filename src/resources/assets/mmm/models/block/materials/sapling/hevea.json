@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cross",
+    "textures": {
+        "cross": "mmm:blocks/materials/sapling/hevea"
+    }
+}

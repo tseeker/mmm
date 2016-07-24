@@ -1,0 +1,23 @@
+{
+	"forge_marker": 1 ,
+	"defaults" : {
+		"model": "mmm:deco/light/plate" ,
+		"textures": {
+			"plate": "mmm:blocks/deco/light/plate/unlit" ,
+			"side": "mmm:blocks/deco/light/plate/sides"
+		}
+	} ,
+	
+	"variants" : {
+
+		"facing" : {
+			"north" : { "y": 0 } ,
+			"east" : { "y": 90 } ,
+			"south" : { "y": 180 } ,
+			"west" : { "y": 270 } ,
+			"up" : { "x": 270 } ,
+			"down" : { "x" : 90 }
+		}
+
+	}
+}

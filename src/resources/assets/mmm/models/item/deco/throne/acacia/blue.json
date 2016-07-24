@@ -1,0 +1,6 @@
+{
+	"parent": "mmm:item/deco/throne/acacia",
+	"textures": {
+		"wool" : "minecraft:blocks/wool_colored_blue"
+	}
+}

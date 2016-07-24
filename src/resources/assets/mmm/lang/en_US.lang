@@ -1,0 +1,361 @@
+gui.mmm.configure=Configure
+gui.mmm.configure.hoppers=Hoppers
+gui.mmm.configure.comparator=Comparator Output
+
+gui.mmm.tech.base.am.always_active=Always Active
+gui.mmm.tech.base.am.powered=Redstone Activates
+gui.mmm.tech.base.am.unpowered=Redstone Disables
+gui.mmm.tech.base.am.disabled=Deactivated
+
+gui.mmm.recipes.map_cloning=Clone Map
+gui.mmm.recipes.map_extending=Extend Map
+
+
+item.mmm.plant.fruit.tomato.name=Tomato
+item.mmm.plant.seeds.tomato.name=Tomato Seeds
+tile.mmm.plant.block.wild_tomato.name=Wild Tomato Plant
+
+death.attack.nether_coral=%1$s became Nether Coral food
+death.attack.nether_coral.player=%1$s fled away from %2$s and straight into hungry Nether Coral
+tile.mmm.plant.block.nether_coral.red.name=Red Nether Coral
+tile.mmm.plant.block.nether_coral.yellow.name=Yellow Nether Coral
+tile.mmm.plant.block.nether_coral.orange.name=Orange Nether Coral
+tile.mmm.plant.block.nether_coral.blue.name=Blue Nether Coral
+
+
+tile.mmm.materials.rock.limestone.name=Limestone
+tile.mmm.materials.rock.chalk.name=Chalk
+tile.mmm.materials.rock.slate.name=Slate
+tile.mmm.materials.rock.basalt.name=Basalt
+
+tile.mmm.materials.ore.rock_salt.name=Rock Salt
+item.mmm.materials.stone.rock_salt.name=Salt Crystals
+
+tile.mmm.materials.ore.bauxite.name=Bauxite
+
+tile.mmm.materials.ore.galena.name=Galena
+
+tile.mmm.materials.ore.cinnabar.name=Cinnabar
+
+tile.mmm.materials.ore.sulphur.name=Sulphur
+item.mmm.materials.stone.sulphur_powder.name=Sulphur Powder
+
+tile.mmm.materials.ore.silver.name=Native Silver
+
+tile.mmm.materials.ore.saltpeter.name=Saltpeter
+item.mmm.materials.stone.saltpeter_powder.name=Saltpeter Powder
+
+item.mmm.materials.stone.coke.name=Coke
+item.mmm.materials.stone.slag.name=Slag
+item.mmm.materials.nugget.iron.name=Iron Nugget
+item.mmm.materials.ingot.pig_iron.name=Pig Iron Ingot
+
+item.mmm.materials.ingot.copper.name=Copper Ingot
+item.mmm.materials.nugget.copper.name=Copper Nugget
+tile.mmm.materials.block.copper.name=Copper Block
+tile.mmm.materials.ore.copper.name=Native Copper
+item.mmm.materials.stone.malachite.name=Malachite
+tile.mmm.materials.ore.malachite.name=Malachite
+item.mmm.materials.stone.cuprite.name=Cuprite
+tile.mmm.materials.ore.cuprite.name=Cuprite
+
+item.mmm.materials.ingot.tin.name=Tin Ingot
+item.mmm.materials.nugget.tin.name=Tin Nugget
+tile.mmm.materials.block.tin.name=Tin Block
+tile.mmm.materials.ore.cassiterite.name=Cassiterite
+item.mmm.materials.stone.cassiterite.name=Cassiterite
+
+item.mmm.materials.ingot.bronze.name=Bronze Ingot
+item.mmm.materials.nugget.bronze.name=Bronze Nugget
+tile.mmm.materials.block.bronze.name=Bronze Block
+
+item.mmm.materials.ingot.brass.name=Brass Ingot
+item.mmm.materials.nugget.brass.name=Brass Nugget
+tile.mmm.materials.block.brass.name=Brass Block
+
+item.mmm.materials.ingot.steel.name=Steel Ingot
+item.mmm.materials.nugget.steel.name=Steel Nugget
+tile.mmm.materials.block.steel.name=Steel Block
+
+tile.mmm.materials.ore.sphalerite.name=Sphalerite
+item.mmm.materials.stone.sphalerite.name=Sphalerite
+item.mmm.materials.ingot.zinc.name=Zinc Ingot
+item.mmm.materials.nugget.zinc.name=Zinc Nugget
+tile.mmm.materials.block.zinc.name=Zinc Block
+
+tile.mmm.materials.sapling.hevea.name=Hevea Sapling
+tile.mmm.materials.log.hevea.name=Hevea Log
+tile.mmm.materials.leaves.hevea.name=Hevea Leaves
+tile.mmm.materials.planks.hevea.name=Hevea Wood Planks
+
+tile.mmm.materials.sapling.bamboo.name=Bamboo Shoot
+tile.mmm.materials.log.bamboo.name=Bamboo
+tile.mmm.materials.leaves.bamboo.name=Bamboo Leaves
+tile.mmm.materials.planks.bamboo.name=Bamboo Wood Planks
+
+tile.mmm.materials.trap.sand.name=Quicksand
+tile.mmm.materials.trap.red_sand.name=Red Quicksand
+tile.mmm.materials.trap.mud.name=Mud
+tile.mmm.materials.trap.swamp_pit.name=Silty Quicksand
+
+
+tile.mmm.tech.base.workbench.name=Workbench
+container.mmm.workbench.default=Set Default Recipe
+
+tile.mmm.tech.base.alloy_furnace.inactive.name=Alloy Furnace
+container.mmm.alloy_furnace.contents=Furnace Contents
+container.mmm.alloy_furnace.recipe=Alloy Selection
+container.mmm.alloy_furnace.select=Select Alloy
+container.mmm.alloy_furnace.cfg.hoppers_input_invalid=Allow invalid input
+container.mmm.alloy_furnace.cfg.hoppers_output_invalid=Remove invalid input
+container.mmm.alloy_furnace.cfg.hoppers_output_fuel=Remove spent fuel buckets
+container.mmm.alloy_furnace.cfg.cmp_output=Output
+container.mmm.alloy_furnace.cfg.cmp_fuel=Fuel
+container.mmm.alloy_furnace.cfg.cmp_valid_input=Valid Input
+container.mmm.alloy_furnace.cfg.cmp_invalid_input=Invalid Input
+container.mmm.alloy_furnace.cfg.cmp_alloying=Alloying Time
+container.mmm.alloy_furnace.cfg.cmp_burning=Burn Time
+
+
+item.mmm.tech.tools.copper.shovel.name=Copper Shovel
+item.mmm.tech.tools.copper.axe.name=Copper Axe
+item.mmm.tech.tools.copper.pickaxe.name=Copper Pickaxe
+item.mmm.tech.tools.copper.hoe.name=Copper Hoe
+item.mmm.tech.tools.copper.sword.name=Copper Sword
+item.mmm.tech.tools.copper.armor.feet.name=Copper Boots
+item.mmm.tech.tools.copper.armor.legs.name=Copper Leggings
+item.mmm.tech.tools.copper.armor.chest.name=Copper Chestplate
+item.mmm.tech.tools.copper.armor.head.name=Copper Helmet
+
+item.mmm.tech.tools.bronze.shovel.name=Bronze Shovel
+item.mmm.tech.tools.bronze.axe.name=Bronze Axe
+item.mmm.tech.tools.bronze.pickaxe.name=Bronze Pickaxe
+item.mmm.tech.tools.bronze.hoe.name=Bronze Hoe
+item.mmm.tech.tools.bronze.sword.name=Bronze Sword
+item.mmm.tech.tools.bronze.armor.feet.name=Bronze Boots
+item.mmm.tech.tools.bronze.armor.legs.name=Bronze Leggings
+item.mmm.tech.tools.bronze.armor.chest.name=Bronze Chestplate
+item.mmm.tech.tools.bronze.armor.head.name=Bronze Helmet
+
+item.mmm.tech.tools.steel.shovel.name=Steel Shovel
+item.mmm.tech.tools.steel.axe.name=Steel Axe
+item.mmm.tech.tools.steel.pickaxe.name=Steel Pickaxe
+item.mmm.tech.tools.steel.hoe.name=Steel Hoe
+item.mmm.tech.tools.steel.sword.name=Steel Sword
+item.mmm.tech.tools.steel.armor.feet.name=Steel Boots
+item.mmm.tech.tools.steel.armor.legs.name=Steel Leggings
+item.mmm.tech.tools.steel.armor.chest.name=Steel Chestplate
+item.mmm.tech.tools.steel.armor.head.name=Steel Helmet
+
+
+item.milk.name=Cow milk
+item.mmm.food.milk.sheep.name=Sheep milk
+item.mmm.food.milk.pig.name=Pig milk
+item.mmm.food.milk.horse.name=Horse milk
+item.mmm.food.milk.donkey.name=Donkey milk
+
+item.mmm.food.ingredient.flour.name=Wheat Flour
+item.mmm.food.ingredient.dough.name=Dough
+item.mmm.food.ingredient.glass_jar.name=Empty Glass Jar
+
+item.mmm.food.meal.sausage.raw.name=Raw Sausage
+item.mmm.food.meal.sausage.cooked.name=Sausage
+item.mmm.food.meal.sausage.dried.name=Dried Sausage
+
+item.mmm.food.meal.pasta.raw.name=Pasta Dough
+item.mmm.food.meal.pasta.cooked.name=Pasta
+
+item.mmm.food.soup.tomato.name=Tomato Soup
+item.mmm.food.soup.glowing.name=Glowing Soup
+
+item.mmm.food.pie.apple.name=Apple Pie
+
+item.mmm.food.jam.apple.name=Apple Jam
+
+
+tile.mmm.deco.smoothstone.limestone.name=Polished Limestone
+tile.mmm.deco.smoothstone.basalt.name=Polished Basalt
+tile.mmm.deco.smoothstone.slate.name=Polished Slate
+
+tile.mmm.deco.slabs.granite.name=Granite Slab
+tile.mmm.deco.slabs.diorite.name=Diorite Slab
+tile.mmm.deco.slabs.andesite.name=Andesite Slab
+tile.mmm.deco.slabs.limestone.name=Limestone Slab
+tile.mmm.deco.slabs.basalt.name=Basalt Slab
+tile.mmm.deco.slabs.slate.name=Slate Slab
+tile.mmm.deco.slabs.hevea.name=Hevea Wood Slab
+tile.mmm.deco.slabs.bamboo.name=Bamboo Wood Slab
+
+tile.mmm.deco.stairs.granite.name=Granite Stairs
+tile.mmm.deco.stairs.diorite.name=Diorite Stairs
+tile.mmm.deco.stairs.andesite.name=Andesite Stairs
+tile.mmm.deco.stairs.limestone.name=Limestone Stairs
+tile.mmm.deco.stairs.basalt.name=Basalt Stairs
+tile.mmm.deco.stairs.slate.name=Slate Stairs
+tile.mmm.deco.stairs.hevea.name=Hevea Wood Stairs
+tile.mmm.deco.stairs.bamboo.name=Bamboo Wood Stairs
+
+tile.mmm.deco.fence.hevea.name=Hevea Fence
+tile.mmm.deco.fence.gate.hevea.name=Hevea Fence Gate
+tile.mmm.deco.fence.bamboo.name=Bamboo Fence
+tile.mmm.deco.fence.gate.bamboo.name=Bamboo Fence Gate
+
+item.mmm.deco.door.hevea.name=Hevea Door
+item.mmm.deco.door.bamboo.name=Bamboo Door
+
+tile.mmm.deco.table.oak.name=Oak Table
+tile.mmm.deco.table.birch.name=Birch Table
+tile.mmm.deco.table.spruce.name=Spruce Table
+tile.mmm.deco.table.acacia.name=Acacia Table
+tile.mmm.deco.table.jungle.name=Jungle Wood Table
+tile.mmm.deco.table.dark_oak.name=Dark Oak Table
+tile.mmm.deco.table.hevea.name=Hevea Table
+tile.mmm.deco.table.bamboo.name=Bamboo Table
+
+tile.mmm.deco.chair.oak.name=Oak Chair
+tile.mmm.deco.chair.birch.name=Birch Chair
+tile.mmm.deco.chair.spruce.name=Spruce Chair
+tile.mmm.deco.chair.acacia.name=Acacia Chair
+tile.mmm.deco.chair.jungle.name=Jungle Wood Chair
+tile.mmm.deco.chair.dark_oak.name=Dark Oak Chair
+tile.mmm.deco.chair.hevea.name=Hevea Chair
+tile.mmm.deco.chair.bamboo.name=Bamboo Chair
+
+tile.mmm.deco.throne.oak.black.name=Oak Throne (Black)
+tile.mmm.deco.throne.oak.blue.name=Oak Throne (Blue)
+tile.mmm.deco.throne.oak.brown.name=Oak Throne (Brown)
+tile.mmm.deco.throne.oak.cyan.name=Oak Throne (Cyan)
+tile.mmm.deco.throne.oak.gray.name=Oak Throne (Gray)
+tile.mmm.deco.throne.oak.green.name=Oak Throne (Green)
+tile.mmm.deco.throne.oak.lightBlue.name=Oak Throne (Light Blue)
+tile.mmm.deco.throne.oak.lime.name=Oak Throne (Lime)
+tile.mmm.deco.throne.oak.magenta.name=Oak Throne (Magenta)
+tile.mmm.deco.throne.oak.orange.name=Oak Throne (Orange)
+tile.mmm.deco.throne.oak.pink.name=Oak Throne (Pink)
+tile.mmm.deco.throne.oak.purple.name=Oak Throne (Purple)
+tile.mmm.deco.throne.oak.red.name=Oak Throne (Red)
+tile.mmm.deco.throne.oak.silver.name=Oak Throne (Silver)
+tile.mmm.deco.throne.oak.white.name=Oak Throne (White)
+tile.mmm.deco.throne.oak.yellow.name=Oak Throne (Yellow)
+
+tile.mmm.deco.throne.birch.black.name=Birch Throne (Black)
+tile.mmm.deco.throne.birch.blue.name=Birch Throne (Blue)
+tile.mmm.deco.throne.birch.brown.name=Birch Throne (Brown)
+tile.mmm.deco.throne.birch.cyan.name=Birch Throne (Cyan)
+tile.mmm.deco.throne.birch.gray.name=Birch Throne (Gray)
+tile.mmm.deco.throne.birch.green.name=Birch Throne (Green)
+tile.mmm.deco.throne.birch.lightBlue.name=Birch Throne (Light Blue)
+tile.mmm.deco.throne.birch.lime.name=Birch Throne (Lime)
+tile.mmm.deco.throne.birch.magenta.name=Birch Throne (Magenta)
+tile.mmm.deco.throne.birch.orange.name=Birch Throne (Orange)
+tile.mmm.deco.throne.birch.pink.name=Birch Throne (Pink)
+tile.mmm.deco.throne.birch.purple.name=Birch Throne (Purple)
+tile.mmm.deco.throne.birch.red.name=Birch Throne (Red)
+tile.mmm.deco.throne.birch.silver.name=Birch Throne (Silver)
+tile.mmm.deco.throne.birch.white.name=Birch Throne (White)
+tile.mmm.deco.throne.birch.yellow.name=Birch Throne (Yellow)
+
+tile.mmm.deco.throne.spruce.black.name=Spruce Throne (Black)
+tile.mmm.deco.throne.spruce.blue.name=Spruce Throne (Blue)
+tile.mmm.deco.throne.spruce.brown.name=Spruce Throne (Brown)
+tile.mmm.deco.throne.spruce.cyan.name=Spruce Throne (Cyan)
+tile.mmm.deco.throne.spruce.gray.name=Spruce Throne (Gray)
+tile.mmm.deco.throne.spruce.green.name=Spruce Throne (Green)
+tile.mmm.deco.throne.spruce.lightBlue.name=Spruce Throne (Light Blue)
+tile.mmm.deco.throne.spruce.lime.name=Spruce Throne (Lime)
+tile.mmm.deco.throne.spruce.magenta.name=Spruce Throne (Magenta)
+tile.mmm.deco.throne.spruce.orange.name=Spruce Throne (Orange)
+tile.mmm.deco.throne.spruce.pink.name=Spruce Throne (Pink)
+tile.mmm.deco.throne.spruce.purple.name=Spruce Throne (Purple)
+tile.mmm.deco.throne.spruce.red.name=Spruce Throne (Red)
+tile.mmm.deco.throne.spruce.silver.name=Spruce Throne (Silver)
+tile.mmm.deco.throne.spruce.white.name=Spruce Throne (White)
+tile.mmm.deco.throne.spruce.yellow.name=Spruce Throne (Yellow)
+
+tile.mmm.deco.throne.jungle.black.name=Jungle Wood Throne (Black)
+tile.mmm.deco.throne.jungle.blue.name=Jungle Wood Throne (Blue)
+tile.mmm.deco.throne.jungle.brown.name=Jungle Wood Throne (Brown)
+tile.mmm.deco.throne.jungle.cyan.name=Jungle Wood Throne (Cyan)
+tile.mmm.deco.throne.jungle.gray.name=Jungle Wood Throne (Gray)
+tile.mmm.deco.throne.jungle.green.name=Jungle Wood Throne (Green)
+tile.mmm.deco.throne.jungle.lightBlue.name=Jungle Wood Throne (Light Blue)
+tile.mmm.deco.throne.jungle.lime.name=Jungle Wood Throne (Lime)
+tile.mmm.deco.throne.jungle.magenta.name=Jungle Wood Throne (Magenta)
+tile.mmm.deco.throne.jungle.orange.name=Jungle Wood Throne (Orange)
+tile.mmm.deco.throne.jungle.pink.name=Jungle Wood Throne (Pink)
+tile.mmm.deco.throne.jungle.purple.name=Jungle Wood Throne (Purple)
+tile.mmm.deco.throne.jungle.red.name=Jungle Wood Throne (Red)
+tile.mmm.deco.throne.jungle.silver.name=Jungle Wood Throne (Silver)
+tile.mmm.deco.throne.jungle.white.name=Jungle Wood Throne (White)
+tile.mmm.deco.throne.jungle.yellow.name=Jungle Wood Throne (Yellow)
+
+tile.mmm.deco.throne.dark_oak.black.name=Dark Oak Throne (Black)
+tile.mmm.deco.throne.dark_oak.blue.name=Dark Oak Throne (Blue)
+tile.mmm.deco.throne.dark_oak.brown.name=Dark Oak Throne (Brown)
+tile.mmm.deco.throne.dark_oak.cyan.name=Dark Oak Throne (Cyan)
+tile.mmm.deco.throne.dark_oak.gray.name=Dark Oak Throne (Gray)
+tile.mmm.deco.throne.dark_oak.green.name=Dark Oak Throne (Green)
+tile.mmm.deco.throne.dark_oak.lightBlue.name=Dark Oak Throne (Light Blue)
+tile.mmm.deco.throne.dark_oak.lime.name=Dark Oak Throne (Lime)
+tile.mmm.deco.throne.dark_oak.magenta.name=Dark Oak Throne (Magenta)
+tile.mmm.deco.throne.dark_oak.orange.name=Dark Oak Throne (Orange)
+tile.mmm.deco.throne.dark_oak.pink.name=Dark Oak Throne (Pink)
+tile.mmm.deco.throne.dark_oak.purple.name=Dark Oak Throne (Purple)
+tile.mmm.deco.throne.dark_oak.red.name=Dark Oak Throne (Red)
+tile.mmm.deco.throne.dark_oak.silver.name=Dark Oak Throne (Silver)
+tile.mmm.deco.throne.dark_oak.white.name=Dark Oak Throne (White)
+tile.mmm.deco.throne.dark_oak.yellow.name=Dark Oak Throne (Yellow)
+
+tile.mmm.deco.throne.acacia.black.name=Acacia Throne (Black)
+tile.mmm.deco.throne.acacia.blue.name=Acacia Throne (Blue)
+tile.mmm.deco.throne.acacia.brown.name=Acacia Throne (Brown)
+tile.mmm.deco.throne.acacia.cyan.name=Acacia Throne (Cyan)
+tile.mmm.deco.throne.acacia.gray.name=Acacia Throne (Gray)
+tile.mmm.deco.throne.acacia.green.name=Acacia Throne (Green)
+tile.mmm.deco.throne.acacia.lightBlue.name=Acacia Throne (Light Blue)
+tile.mmm.deco.throne.acacia.lime.name=Acacia Throne (Lime)
+tile.mmm.deco.throne.acacia.magenta.name=Acacia Throne (Magenta)
+tile.mmm.deco.throne.acacia.orange.name=Acacia Throne (Orange)
+tile.mmm.deco.throne.acacia.pink.name=Acacia Throne (Pink)
+tile.mmm.deco.throne.acacia.purple.name=Acacia Throne (Purple)
+tile.mmm.deco.throne.acacia.red.name=Acacia Throne (Red)
+tile.mmm.deco.throne.acacia.silver.name=Acacia Throne (Silver)
+tile.mmm.deco.throne.acacia.white.name=Acacia Throne (White)
+tile.mmm.deco.throne.acacia.yellow.name=Acacia Throne (Yellow)
+
+tile.mmm.deco.throne.bamboo.black.name=Bamboo Throne (Black)
+tile.mmm.deco.throne.bamboo.blue.name=Bamboo Throne (Blue)
+tile.mmm.deco.throne.bamboo.brown.name=Bamboo Throne (Brown)
+tile.mmm.deco.throne.bamboo.cyan.name=Bamboo Throne (Cyan)
+tile.mmm.deco.throne.bamboo.gray.name=Bamboo Throne (Gray)
+tile.mmm.deco.throne.bamboo.green.name=Bamboo Throne (Green)
+tile.mmm.deco.throne.bamboo.lightBlue.name=Bamboo Throne (Light Blue)
+tile.mmm.deco.throne.bamboo.lime.name=Bamboo Throne (Lime)
+tile.mmm.deco.throne.bamboo.magenta.name=Bamboo Throne (Magenta)
+tile.mmm.deco.throne.bamboo.orange.name=Bamboo Throne (Orange)
+tile.mmm.deco.throne.bamboo.pink.name=Bamboo Throne (Pink)
+tile.mmm.deco.throne.bamboo.purple.name=Bamboo Throne (Purple)
+tile.mmm.deco.throne.bamboo.red.name=Bamboo Throne (Red)
+tile.mmm.deco.throne.bamboo.silver.name=Bamboo Throne (Silver)
+tile.mmm.deco.throne.bamboo.white.name=Bamboo Throne (White)
+tile.mmm.deco.throne.bamboo.yellow.name=Bamboo Throne (Yellow)
+
+tile.mmm.deco.throne.hevea.black.name=Hevea Throne (Black)
+tile.mmm.deco.throne.hevea.blue.name=Hevea Throne (Blue)
+tile.mmm.deco.throne.hevea.brown.name=Hevea Throne (Brown)
+tile.mmm.deco.throne.hevea.cyan.name=Hevea Throne (Cyan)
+tile.mmm.deco.throne.hevea.gray.name=Hevea Throne (Gray)
+tile.mmm.deco.throne.hevea.green.name=Hevea Throne (Green)
+tile.mmm.deco.throne.hevea.lightBlue.name=Hevea Throne (Light Blue)
+tile.mmm.deco.throne.hevea.lime.name=Hevea Throne (Lime)
+tile.mmm.deco.throne.hevea.magenta.name=Hevea Throne (Magenta)
+tile.mmm.deco.throne.hevea.orange.name=Hevea Throne (Orange)
+tile.mmm.deco.throne.hevea.pink.name=Hevea Throne (Pink)
+tile.mmm.deco.throne.hevea.purple.name=Hevea Throne (Purple)
+tile.mmm.deco.throne.hevea.red.name=Hevea Throne (Red)
+tile.mmm.deco.throne.hevea.silver.name=Hevea Throne (Silver)
+tile.mmm.deco.throne.hevea.white.name=Hevea Throne (White)
+tile.mmm.deco.throne.hevea.yellow.name=Hevea Throne (Yellow)
+
+tile.mmm.deco.light.plate.lit.name=Spot Light
+tile.mmm.deco.light.button.unlit.name=Button With Indicator Light

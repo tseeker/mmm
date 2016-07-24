@@ -1,0 +1,39 @@
+{
+	"forge_marker": 1 ,
+	"defaults" : {
+		"model": "mmm:deco/throne/top" ,
+		"textures": {
+			"wood": "mmm:blocks/deco/throne/birch/wood" ,
+			"front" : "mmm:blocks/deco/throne/birch/front-top"
+		}
+	} ,
+	"variants" : {
+
+		"facing" : {
+			"north" : { "y": 0 } ,
+			"east" : { "y": 90 } ,
+			"south" : { "y": 180 } ,
+			"west" : { "y": 270 }
+		} ,
+		
+		"color" : {
+			"black" : { "textures" : { "wool" : "minecraft:blocks/wool_colored_black" } } ,
+			"blue" : { "textures" : { "wool" : "minecraft:blocks/wool_colored_blue" } } ,
+			"brown" : { "textures" : { "wool" : "minecraft:blocks/wool_colored_brown" } } ,
+			"cyan" : { "textures" : { "wool" : "minecraft:blocks/wool_colored_cyan" } } ,
+			"gray" : { "textures" : { "wool" : "minecraft:blocks/wool_colored_gray" } } ,
+			"green" : { "textures" : { "wool" : "minecraft:blocks/wool_colored_green" } } ,
+			"light_blue" : { "textures" : { "wool" : "minecraft:blocks/wool_colored_light_blue" } } ,
+			"lime" : { "textures" : { "wool" : "minecraft:blocks/wool_colored_lime" } } ,
+			"magenta" : { "textures" : { "wool" : "minecraft:blocks/wool_colored_magenta" } } ,
+			"orange" : { "textures" : { "wool" : "minecraft:blocks/wool_colored_orange" } } ,
+			"pink" : { "textures" : { "wool" : "minecraft:blocks/wool_colored_pink" } } ,
+			"purple" : { "textures" : { "wool" : "minecraft:blocks/wool_colored_purple" } } ,
+			"red" : { "textures" : { "wool" : "minecraft:blocks/wool_colored_red" } } ,
+			"silver" : { "textures" : { "wool" : "minecraft:blocks/wool_colored_silver" } } ,
+			"white" : { "textures" : { "wool" : "minecraft:blocks/wool_colored_white" } } ,
+			"yellow" : { "textures" : { "wool" : "minecraft:blocks/wool_colored_yellow" } }
+		}
+
+	}
+}

@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=north,powered=true":  { "model": "mmm:tech/base/alloy_furnace/inactive" },
+        "facing=north,powered=false":  { "model": "mmm:tech/base/alloy_furnace/inactive" },
+        "facing=east,powered=true":  { "model": "mmm:tech/base/alloy_furnace/inactive", "y": 90 },
+        "facing=east,powered=false":  { "model": "mmm:tech/base/alloy_furnace/inactive", "y": 90 },
+        "facing=south,powered=true":  { "model": "mmm:tech/base/alloy_furnace/inactive", "y": 180 },
+        "facing=south,powered=false":  { "model": "mmm:tech/base/alloy_furnace/inactive", "y": 180 },
+        "facing=west,powered=true":  { "model": "mmm:tech/base/alloy_furnace/inactive", "y": 270 },
+        "facing=west,powered=false":  { "model": "mmm:tech/base/alloy_furnace/inactive", "y": 270 }
+	}
+}

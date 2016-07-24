@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "mmm:materials/trap/red_sand" }
+    }
+}

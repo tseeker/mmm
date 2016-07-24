@@ -1,0 +1,7 @@
+{
+	"parent": "mmm:block/deco/table/support_west",
+    "textures": {
+        "body": "minecraft:blocks/planks_jungle",
+        "leg": "minecraft:blocks/log_jungle"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "mmm:tech/base/workbench" } ,
+        "facing=east": { "model": "mmm:tech/base/workbench" , "y": 90 } ,
+        "facing=south": { "model": "mmm:tech/base/workbench" , "y": 180 } ,
+        "facing=west": { "model": "mmm:tech/base/workbench" , "y": 270 }
+    }
+}

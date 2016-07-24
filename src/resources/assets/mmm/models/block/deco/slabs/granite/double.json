@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cube_column",
+    "textures": {
+        "end": "minecraft:blocks/stone_granite_smooth",
+        "side": "mmm:blocks/deco/slabs/granite"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/half_slab",
+    "textures": {
+        "bottom": "minecraft:blocks/stone_granite_smooth",
+        "top": "minecraft:blocks/stone_granite_smooth",
+        "side": "mmm:blocks/deco/slabs/granite"
+    }
+}

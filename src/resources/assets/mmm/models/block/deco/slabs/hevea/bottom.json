@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/half_slab",
+    "textures": {
+        "bottom": "mmm:blocks/materials/planks/hevea",
+        "top": "mmm:blocks/materials/planks/hevea",
+        "side": "mmm:blocks/materials/planks/hevea"
+    }
+}

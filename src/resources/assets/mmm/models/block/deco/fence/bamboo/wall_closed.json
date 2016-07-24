@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/wall_gate_closed",
+    "textures": {
+        "texture": "mmm:blocks/materials/planks/bamboo"
+    }
+}

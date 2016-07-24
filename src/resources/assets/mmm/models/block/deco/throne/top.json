@@ -1,0 +1,77 @@
+{
+	"textures" : {
+		"particle" : "#wood" ,
+		"front" : "#front" ,
+		"wool" : "#wool"
+	},
+
+	"elements": 
+	[
+		{
+			"from": [ 0, 0, 0 ] ,
+			"to": [ 16 , 8, 2 ] ,
+			"faces": {
+                "north": { "texture": "#wood" , "cullface": "north" } ,
+                "south": { "texture": "#front" } ,
+                "up": { "texture": "#wood" } ,
+                "east": { "texture": "#wood" , "cullface": "east" } ,
+                "west": { "texture": "#wood" , "cullface": "west" }
+			}
+		} ,
+		{
+			"from": [ 1, 8, 0 ] ,
+			"to": [ 15 , 10, 2 ] ,
+			"faces": {
+                "north": { "texture": "#wood" , "cullface": "north" } ,
+                "south": { "texture": "#front" } ,
+                "up": { "texture": "#wood" } ,
+                "east": { "texture": "#wood" } ,
+                "west": { "texture": "#wood" }
+			}
+		} ,
+		{
+			"from": [ 2, 10, 0 ] ,
+			"to": [ 14 , 11, 2 ] ,
+			"faces": {
+                "north": { "texture": "#wood" , "cullface": "north" } ,
+                "south": { "texture": "#front" } ,
+                "up": { "texture": "#wood" } ,
+                "east": { "texture": "#wood" } ,
+                "west": { "texture": "#wood" }
+			}
+		} ,
+		{
+			"from": [ 3, 11, 0 ] ,
+			"to": [ 13 , 12, 2 ] ,
+			"faces": {
+                "north": { "texture": "#wood" , "cullface": "north" } ,
+                "south": { "texture": "#front" } ,
+                "up": { "texture": "#wood" } ,
+                "east": { "texture": "#wood" } ,
+                "west": { "texture": "#wood" }
+			}
+		} ,
+		{
+			"from": [ 5, 12, 0 ] ,
+			"to": [ 11 , 13, 2 ] ,
+			"faces": {
+                "north": { "texture": "#wood" , "cullface": "north" } ,
+                "south": { "texture": "#front" } ,
+                "up": { "texture": "#wood" } ,
+                "east": { "texture": "#wood" } ,
+                "west": { "texture": "#wood" }
+			}
+		} ,
+		
+		{
+			"from": [ 5, 0, 2 ] ,
+			"to": [ 11 , 6 , 3 ] ,
+			"faces" : {
+                "south": { "texture": "#wool" } ,
+                "up": { "texture": "#wool" } ,
+                "east": { "texture": "#wool" } ,
+                "west": { "texture": "#wool" }
+			}
+		}
+	]
+}

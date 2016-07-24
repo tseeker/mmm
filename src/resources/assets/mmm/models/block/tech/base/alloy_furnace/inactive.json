@@ -1,0 +1,8 @@
+{
+	"parent": "mmm:block/tech/base/alloy_furnace",
+	"textures": 
+	{
+		"top": "mmm:blocks/tech/base/alloy_furnace/inactive/top",
+		"front": "mmm:blocks/tech/base/alloy_furnace/inactive/front"
+	}
+}

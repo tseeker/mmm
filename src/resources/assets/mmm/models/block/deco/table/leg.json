@@ -1,0 +1,18 @@
+{
+    "textures": {
+        "particle": "#body"
+    },
+    "elements": [
+    	{
+    		"from": [ 1, 0, 1 ],
+    		"to": [ 3, 12, 3 ],
+             "faces": {
+                "down":  { "texture": "#leg", "cullface": "down" },
+                "north": { "texture": "#leg" },
+                "south": { "texture": "#leg" },
+                "west":  { "texture": "#leg" },
+                "east":  { "texture": "#leg" }
+            }
+    	}
+    ]
+}

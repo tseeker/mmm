@@ -1,0 +1,7 @@
+{
+	"parent": "mmm:block/deco/table/legtop",
+    "textures": {
+        "body": "minecraft:blocks/planks_big_oak",
+        "leg": "minecraft:blocks/log_big_oak"
+    }
+}

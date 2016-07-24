@@ -1,0 +1,7 @@
+{
+	"parent": "mmm:item/deco/table",
+    "textures": {
+        "body": "minecraft:blocks/planks_oak",
+        "legs": "minecraft:blocks/log_oak"
+    }
+}

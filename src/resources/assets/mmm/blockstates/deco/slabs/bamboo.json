@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "mmm:deco/slabs/bamboo/bottom" },
+        "half=top,variant=default": { "model": "mmm:deco/slabs/bamboo/top" }
+    }
+}

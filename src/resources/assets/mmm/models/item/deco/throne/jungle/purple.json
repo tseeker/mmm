@@ -1,0 +1,6 @@
+{
+	"parent": "mmm:item/deco/throne/jungle",
+	"textures": {
+		"wool" : "minecraft:blocks/wool_colored_purple"
+	}
+}

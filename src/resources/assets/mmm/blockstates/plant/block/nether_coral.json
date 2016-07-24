@@ -1,0 +1,15 @@
+{
+	"forge_marker": 1 ,
+	"defaults" : {
+		"model": "minecraft:cross"
+	} ,
+	"variants" : {
+		"color" : {
+			"yellow" : { "textures" : { "cross" : "mmm:blocks/plant/nether_coral/yellow" } } ,
+			"red" : { "textures" : { "cross" : "mmm:blocks/plant/nether_coral/red" } } ,
+			"orange" : { "textures" : { "cross" : "mmm:blocks/plant/nether_coral/orange" } } ,
+			"blue" : { "textures" : { "cross" : "mmm:blocks/plant/nether_coral/blue" } }
+		}
+	}
+	
+}

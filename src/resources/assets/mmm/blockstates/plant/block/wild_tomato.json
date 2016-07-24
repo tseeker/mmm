@@ -1,0 +1,13 @@
+{
+	"forge_marker": 1 ,
+	"defaults" : {
+		"model": "minecraft:cross"
+	} ,
+	"variants" : {
+		"fruits" : {
+			"true" : { "textures" : { "cross" : "mmm:blocks/plant/wild_tomato/with_fruits" } } ,
+			"false" : { "textures" : { "cross" : "mmm:blocks/plant/wild_tomato/without_fruits" } }
+		}
+	}
+	
+}

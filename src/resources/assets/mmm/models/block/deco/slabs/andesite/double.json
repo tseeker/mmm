@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cube_column",
+    "textures": {
+        "end": "minecraft:blocks/stone_andesite_smooth",
+        "side": "mmm:blocks/deco/slabs/andesite"
+    }
+}

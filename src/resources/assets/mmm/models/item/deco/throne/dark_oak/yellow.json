@@ -1,0 +1,6 @@
+{
+	"parent": "mmm:item/deco/throne/dark_oak",
+	"textures": {
+		"wool" : "minecraft:blocks/wool_colored_yellow"
+	}
+}

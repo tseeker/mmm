@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mmm",
+  "name": "MMM!",
+  "description": "A mod for both me and my son. Likely to include very random assortments of things. Probably won't play nice with other mods because I don't care.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TSeeker"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

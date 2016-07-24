@@ -1,0 +1,7 @@
+{
+	"parent": "mmm:item/deco/table",
+    "textures": {
+        "body": "mmm:blocks/materials/planks/hevea",
+        "legs": "mmm:blocks/materials/log/side/hevea"
+    }
+}

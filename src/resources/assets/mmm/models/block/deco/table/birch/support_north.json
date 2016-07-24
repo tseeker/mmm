@@ -1,0 +1,7 @@
+{
+	"parent": "mmm:block/deco/table/support_north",
+    "textures": {
+        "body": "minecraft:blocks/planks_birch",
+        "leg": "minecraft:blocks/log_birch"
+    }
+}

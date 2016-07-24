@@ -1,0 +1,10 @@
+{
+	"parent": "mmm:item/deco/throne",
+	"textures": {
+		"wood" : "mmm:blocks/deco/throne/birch/wood" ,
+		"frontbottom" : "mmm:blocks/deco/throne/birch/front-bottom" ,
+		"fronttop" : "mmm:blocks/deco/throne/birch/front-top" ,
+		"top" : "mmm:blocks/deco/throne/birch/bottom" ,
+		"wool" : "#wool"
+	}
+}

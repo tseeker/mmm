@@ -1,0 +1,6 @@
+{
+    "parent": "mmm:block/plant" ,
+    "textures": {
+        "plant": "mmm:blocks/plant/tomato/f0h"
+    }
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "mmm:block/deco/table/support_west",
+    "textures": {
+        "body": "mmm:blocks/materials/planks/hevea",
+        "leg": "mmm:blocks/materials/log/side/hevea"
+    }
+}

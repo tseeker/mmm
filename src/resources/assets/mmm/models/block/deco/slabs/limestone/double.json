@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cube_column",
+    "textures": {
+        "end": "mmm:blocks/deco/smoothstone/limestone",
+        "side": "mmm:blocks/deco/slabs/limestone"
+    }
+}
